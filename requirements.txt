@@ -1,0 +1,4 @@
+tkcalendar
+tk
+pyodbc
+Pillow

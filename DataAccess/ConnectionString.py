@@ -1,0 +1,5 @@
+# Server = 'SEMATEC'
+Server = '.\\MSSQL2019'
+DB_Name = 'NorthwindSana'
+UserName = 'sa'
+Password = '123'
